@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: hello-socket
+logging:
+  level:
+    root: ERROR
+    org.springframework.web: INFO
+    com.abimulia.hellosocket: TRACE
+application:
+  title: hello-socket
+  version: 1.0.0
